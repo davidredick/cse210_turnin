@@ -1,0 +1,254 @@
+[
+  {
+    "Name": "Income",
+    "Type": 0,
+    "Id": "aeba75dc-9d6f-418b-8dc1-0a52687c8f4f",
+    "ParentId": null
+  },
+  {
+    "Name": "Salary",
+    "Type": 0,
+    "Id": "f3da149a-efb5-4496-afeb-39c874da007b",
+    "ParentId": "aeba75dc-9d6f-418b-8dc1-0a52687c8f4f"
+  },
+  {
+    "Name": "Bonus",
+    "Type": 0,
+    "Id": "25bca25e-e89a-435c-8cfc-c0e493ebf6dd",
+    "ParentId": "f3da149a-efb5-4496-afeb-39c874da007b"
+  },
+  {
+    "Name": "Commission",
+    "Type": 0,
+    "Id": "79ef5041-86dd-41d8-aef4-c8765470c76f",
+    "ParentId": "f3da149a-efb5-4496-afeb-39c874da007b"
+  },
+  {
+    "Name": "Investments",
+    "Type": 0,
+    "Id": "9ffe2c67-3de5-48b4-ae5b-7bcdafd1e2e3",
+    "ParentId": "aeba75dc-9d6f-418b-8dc1-0a52687c8f4f"
+  },
+  {
+    "Name": "Dividends",
+    "Type": 0,
+    "Id": "13d91b01-58ae-40da-bf0c-8ee9514a0556",
+    "ParentId": "9ffe2c67-3de5-48b4-ae5b-7bcdafd1e2e3"
+  },
+  {
+    "Name": "Interest",
+    "Type": 0,
+    "Id": "55cefbb4-8f8e-441a-82da-3f6400c039de",
+    "ParentId": "9ffe2c67-3de5-48b4-ae5b-7bcdafd1e2e3"
+  },
+  {
+    "Name": "Capital Gains",
+    "Type": 0,
+    "Id": "b1da5bb3-ef07-428b-8f79-5c9891cb9b28",
+    "ParentId": "9ffe2c67-3de5-48b4-ae5b-7bcdafd1e2e3"
+  },
+  {
+    "Name": "Other Income",
+    "Type": 0,
+    "Id": "94465a95-5923-49ca-952d-cbe2e6e9d8aa",
+    "ParentId": "aeba75dc-9d6f-418b-8dc1-0a52687c8f4f"
+  },
+  {
+    "Name": "Gifts",
+    "Type": 0,
+    "Id": "3fc9b1c4-576f-4603-9038-f38db6a9246f",
+    "ParentId": "94465a95-5923-49ca-952d-cbe2e6e9d8aa"
+  },
+  {
+    "Name": "Refunds",
+    "Type": 0,
+    "Id": "21bd1642-38c6-4593-95eb-12754338a48c",
+    "ParentId": "94465a95-5923-49ca-952d-cbe2e6e9d8aa"
+  },
+  {
+    "Name": "Freelance",
+    "Type": 0,
+    "Id": "d42d2c8d-b71c-4927-b5ef-8c24ee31a30f",
+    "ParentId": "94465a95-5923-49ca-952d-cbe2e6e9d8aa"
+  },
+  {
+    "Name": "Expenses",
+    "Type": 1,
+    "Id": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0",
+    "ParentId": null
+  },
+  {
+    "Name": "Housing",
+    "Type": 1,
+    "Id": "df278de6-e1c6-42e8-950d-39ffe61ff712",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Rent/Mortgage",
+    "Type": 1,
+    "Id": "f4d5d8fe-7629-4188-a215-86d08c8c34da",
+    "ParentId": "df278de6-e1c6-42e8-950d-39ffe61ff712"
+  },
+  {
+    "Name": "Property Taxes",
+    "Type": 1,
+    "Id": "2314c674-bc82-422b-a02d-81425eb44992",
+    "ParentId": "df278de6-e1c6-42e8-950d-39ffe61ff712"
+  },
+  {
+    "Name": "Home Insurance",
+    "Type": 1,
+    "Id": "e037c760-9341-4591-a971-7fd2dec44d4c",
+    "ParentId": "df278de6-e1c6-42e8-950d-39ffe61ff712"
+  },
+  {
+    "Name": "Home Repairs",
+    "Type": 1,
+    "Id": "a1ab726a-ce38-4a9f-8234-cc044c4e793c",
+    "ParentId": "df278de6-e1c6-42e8-950d-39ffe61ff712"
+  },
+  {
+    "Name": "Utilities",
+    "Type": 1,
+    "Id": "42b626c4-217b-4e28-af85-c2135b9d60be",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Electricity",
+    "Type": 1,
+    "Id": "40acbf79-f356-4eab-90a7-604d34a242a7",
+    "ParentId": "42b626c4-217b-4e28-af85-c2135b9d60be"
+  },
+  {
+    "Name": "Water",
+    "Type": 1,
+    "Id": "84562f6a-f5f4-432a-aa01-e34001559528",
+    "ParentId": "42b626c4-217b-4e28-af85-c2135b9d60be"
+  },
+  {
+    "Name": "Gas",
+    "Type": 1,
+    "Id": "a992b2a7-9415-4d76-9470-0464c7d83c95",
+    "ParentId": "42b626c4-217b-4e28-af85-c2135b9d60be"
+  },
+  {
+    "Name": "Internet",
+    "Type": 1,
+    "Id": "9267b2fe-08e9-44f7-ba09-9126c3a5bc2d",
+    "ParentId": "42b626c4-217b-4e28-af85-c2135b9d60be"
+  },
+  {
+    "Name": "Phone",
+    "Type": 1,
+    "Id": "bfdc6c13-8a85-40b5-a8e0-4732f42935c9",
+    "ParentId": "42b626c4-217b-4e28-af85-c2135b9d60be"
+  },
+  {
+    "Name": "Food",
+    "Type": 1,
+    "Id": "a05012a7-5eaa-478e-a1b2-9b57bfb4f351",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Groceries",
+    "Type": 1,
+    "Id": "99193dea-3d38-49ab-9a9b-65a38cb4e873",
+    "ParentId": "a05012a7-5eaa-478e-a1b2-9b57bfb4f351"
+  },
+  {
+    "Name": "Restaurants",
+    "Type": 1,
+    "Id": "5996ada5-183c-4fd5-9bd4-83c251609e3a",
+    "ParentId": "a05012a7-5eaa-478e-a1b2-9b57bfb4f351"
+  },
+  {
+    "Name": "Coffee Shops",
+    "Type": 1,
+    "Id": "59e86d88-8009-4eec-84bd-5122d5a20b25",
+    "ParentId": "a05012a7-5eaa-478e-a1b2-9b57bfb4f351"
+  },
+  {
+    "Name": "Transportation",
+    "Type": 1,
+    "Id": "f789972f-d337-4157-b586-a41999e5cd95",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Car Payment",
+    "Type": 1,
+    "Id": "ce49f055-ebb2-4259-ab8d-f1f2c8721e32",
+    "ParentId": "f789972f-d337-4157-b586-a41999e5cd95"
+  },
+  {
+    "Name": "Gas",
+    "Type": 1,
+    "Id": "2aa8e8e3-387d-4e18-991d-b1af16e3f6f1",
+    "ParentId": "f789972f-d337-4157-b586-a41999e5cd95"
+  },
+  {
+    "Name": "Car Insurance",
+    "Type": 1,
+    "Id": "952c21c6-09fd-4f70-bbe3-35213d3b472d",
+    "ParentId": "f789972f-d337-4157-b586-a41999e5cd95"
+  },
+  {
+    "Name": "Car Maintenance",
+    "Type": 1,
+    "Id": "50e22aa8-3901-4ca2-9a9b-15fa87023411",
+    "ParentId": "f789972f-d337-4157-b586-a41999e5cd95"
+  },
+  {
+    "Name": "Public Transit",
+    "Type": 1,
+    "Id": "ca93f599-decb-4ee5-b643-0ae747f3f5ed",
+    "ParentId": "f789972f-d337-4157-b586-a41999e5cd95"
+  },
+  {
+    "Name": "Healthcare",
+    "Type": 1,
+    "Id": "8b3cf786-516f-46cf-bae0-9157f894017a",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Entertainment",
+    "Type": 1,
+    "Id": "c30055d2-ecc0-4f09-95f7-f1e8e46a9234",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Shopping",
+    "Type": 1,
+    "Id": "60a30e38-198a-422c-b680-630c3f184c25",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Education",
+    "Type": 1,
+    "Id": "d543b169-ee16-4ff5-979e-13d541ed56fe",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Personal Care",
+    "Type": 1,
+    "Id": "b9335138-f947-4217-9edd-c2cb3b0f0bc3",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Subscriptions",
+    "Type": 1,
+    "Id": "9a309fe7-754b-4364-933a-7c79f93089d4",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Gifts \u0026 Donations",
+    "Type": 1,
+    "Id": "bba5e777-6429-4a7d-9a96-c551308d11fe",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  },
+  {
+    "Name": "Travel",
+    "Type": 1,
+    "Id": "363f6b5b-49c4-4394-aab9-584e89eedc6f",
+    "ParentId": "49570cb2-8060-4ac8-be8b-1ca5c8c3a0e0"
+  }
+]
